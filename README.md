@@ -33,6 +33,7 @@ source software pre-configured to make it fast to get started and easy to scale.
 
 This is what you get with Nhost:
 
+
 - Database: [Postgres](https://www.postgresql.org/)
 - GraphQL API: [Hasura](https://hasura.io/)
 - Authentication: [Hasura Auth](https://github.com/nhost/hasura-auth/)
